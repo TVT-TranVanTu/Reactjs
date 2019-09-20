@@ -1,0 +1,55 @@
+i .fas .fa-phone{
+    font-size: 10px;
+    color: green;
+
+}
+span{
+  color: red;
+}
+.fa-envelope-square{
+  color: green;
+}
+.footer{
+    background: whitesmoke;
+    color:black;
+    width: 100%;
+    height: 400px;
+    position: relative;
+  }
+  
+  .footer .footer-content{
+    border-bottom: 1px solid red;
+    height: 350px;
+    display: flex;
+  }
+
+  .footer .footer-content .footer-section{
+      flex: 1;
+      padding: 25px;
+      border: 1px  solid blue;
+  }
+
+
+  .footer .footer-content .about .socials a{
+    color: black;
+    border: 1px solid gray;
+    margin-right: 10px;
+    padding-top: 10px;
+    display: inline-block;
+    text-align: center;
+    width: 45px;
+    height: 41px;
+    font-size: 1.3em;
+    border-radius: 5px;
+
+  }
+  .footer .footer-bottom{
+    height: 50px;
+    text-align: center;
+    color:black;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    padding-top: 20px;
+  }
